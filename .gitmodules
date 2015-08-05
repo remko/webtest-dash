@@ -1,0 +1,3 @@
+[submodule "webtest"]
+	path = webtest
+	url = https://github.com/Pylons/webtest

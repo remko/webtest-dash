@@ -1,0 +1,11 @@
+{
+    "name": "WebTest",
+    "version": "{version}",
+    "archive": "WebTest.tgz",
+    "author": {
+        "name": "Remko Tronçon",
+        "link": "https://el-tramo.be"
+    },
+    "aliases": [],
+    "specific_versions": []
+}
